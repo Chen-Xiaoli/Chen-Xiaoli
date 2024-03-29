@@ -1,6 +1,4 @@
-# Hi Xiaoli 👋
-
-Keep Yourself
+# 陈小狸在此！ 🤒
 
 ![](https://raw.githubusercontent.com/chen1234567890/Generate-Contribution-Snake/main/assets/github-contribution-grid-snake.svg)
 
